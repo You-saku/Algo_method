@@ -3,9 +3,7 @@ using namespace std;
 
 int main() {
 	string s;
-	char c;
 	cin >> s;
-	cin >> c;
 
 	int stringLength = s.length()-1;
 	int range = s.length()/2;
